@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+/* ajout d'un super commentaire */
 
 namespace RazorPagesTestSample.Data
 {
